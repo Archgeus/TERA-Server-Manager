@@ -1,0 +1,6 @@
+<TERA_Panel>
+  <AutoRestart>False</AutoRestart>
+  <RestartCount>3</RestartCount>
+  <StartTimeOut varTO1="2000" varTO2="4000" varTO3="6000" varTO4="8000" varTO5="10000" varTO6="12000" varTO7="14000" varTO8="16000" varTO9="18000" varTO10="20000" varTO11="22000" varTO12="65000" varTO13="160000" varTO14="160000" varTO15="160000" varTO16="160000" varTO17="150000" varTO18="60000" varTO19="55000" varTO20="50000" varTO21="28000" varTO22="25000" />
+  <isEnabled chk01="True" chk02="True" chk03="True" chk04="True" chk05="True" chk06="True" chk07="True" chk08="True" chk09="True" chk10="True" chk11="True" chk12="True" chk13="True" chk14="True" chk15="True" chk16="True" chk17="True" chk18="True" chk19="True" chk20="True" chk21="True" chk22="True" />
+</TERA_Panel>
