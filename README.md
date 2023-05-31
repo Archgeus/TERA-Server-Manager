@@ -1,4 +1,4 @@
-# TERA-Server-Manager
+# TERA Server Manager
 Simple winforms application used to manage the starting process of TERA Servers
 
 ![1](https://i.ibb.co/cgqBGq4/Screenshot-209.png)
